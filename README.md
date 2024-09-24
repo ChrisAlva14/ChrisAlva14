@@ -2,9 +2,15 @@
 # 🚀 Welcome to Christopher's Code Galaxy! 🌌
 
 ## 👨‍💻 Christopher Emmanuel Villalta Alvarenga
-### Software Development Student & Aspiring Code Astronaut
+### Software Development Student
 
 ---
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+
 
 ### 🛰️ Mission Control
 - 📞 +503 7757-4796
