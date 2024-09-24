@@ -13,7 +13,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,mysql" />
+    <img src="https://skillicons.dev/icons?i=cs,sqlserver" />
   </a>
 </p>
 
