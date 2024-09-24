@@ -18,33 +18,6 @@
 
 ---
 
-### 💡 Skills Constellation
-
-#### Programming Languages & Frameworks:
-- HTML, CSS, JavaScript, Bootstrap
-- C#
-- SQL, SQL Server
-- SCRUM
-
-#### Graphic Design:
-- Photoshop
-- Canva
-
-#### Office Tools:
-- Microsoft Word, Excel, PowerPoint
-
-#### Currently Studying:
-- React
-- Git
-
----
-
-### 🌍 Universal Languages
-1. English: Intermediate - Advanced
-2. Spanish: Native Speaker
-
----
-
 
 🌟 Thanks for exploring my code journey! Let's create something out of this world together! 🌟
 
