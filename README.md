@@ -1,5 +1,5 @@
 
-# 🚀 Welcome to Christopher's Code ! 🌌
+#  <h1 align="center">Hi 👋, I'm Christopher Emmanuel Villalta Alvarenga</h1> 🚀 Welcome to Christopher's Code ! 🌌
 
 ## 👨‍💻 Christopher Emmanuel Villalta Alvarenga
 ### Software Development Student
@@ -23,7 +23,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Christopher Emmanuel Villalta Alvarenga</h1>
+
 <h3 align="center">A passionate Software Development Student from El Salvador</h3>
 <p align="center">I am fascinated by the power of software to transform and improve our lives. My journey in computer science began early, leading me to pursue software engineering with growing enthusiasm. I love exploring new technologies 💻 and using them to build innovative solutions 🛠️</p>
 <p align="center"> 
