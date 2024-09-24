@@ -18,39 +18,6 @@
 
 ---
 
-### 🌠 Stellar Experiences
-
-#### 🔭 SOFTWARE DEVELOPER JR - INTERNSHIP
-*INKUA - INCUBATOR & ACCELERATOR RECRUITER* | June 2024 - Present
-- Developing a time converter to optimize employee time management
-- Tech Stack: React, Git, GitHub
-
-#### 🎨 GRAPHIC DESIGNER
-*VARIEDADES GRACIA "FAMILY BUSINESS"* | January 2024 - Present
-- Crafting eye-catching advertising products
-- Tools: Photoshop, Canva
-
-#### 🛸 CUSTOMER SERVICE AGENT
-*TELEPERFORMANCE EL SALVADOR* | August 2022 - December 2023
-- Navigated the complex universe of health insurance for earthlings in the United States
-
-#### 💻 WEB DEVELOPER JR
-*FREELANCE* | November 2019 - January 2020
-- Built a static website for interdimensional massage services
-- Tech Stack: HTML5, CSS3, Bootstrap
-
----
-
-### 🏫 Knowledge Stations
-
-#### 🎓 Escuela Superior Franciscana Especializada
-*College - Software Development Engineering Technician* | January 2023 - Present
-
-#### 🖥️ Colegio Salarrué
-*Technical Vocational High School in Software Development* | January 2019 - October 2021
-
----
-
 ### 💡 Skills Constellation
 
 #### Programming Languages & Frameworks:
@@ -78,24 +45,6 @@
 
 ---
 
-### 🏆 Project Nebula
-
-#### BILLING AND INVENTORY SYSTEM | C#, SQL, SQL SERVER 2017
-*SCHOOL PROJECT* | January 2021 - October 2021
-- Developed a Billing and Inventory system connected to a SQL Server 2017 database
-- Implemented N-Layer methodology and stored procedures
-
-#### REAL ESTATE WEBSITE | HTML5, CSS3
-*SCHOOL PROJECT* | January 2019 - October 2019
-- Created a static responsive website with a Real Estate theme
-- [View Project](https://bienes-raices-practica.netlify.app/)
-
-#### COFFEE BLOG | HTML5, CSS3, BOOTSTRAP
-*FREELANCE* | January 2019 - October 2019
-- Brewed a static responsive website for coffee enthusiasts
-- [Sip the Code](https://blog-de-cafe-practica.netlify.app/)
-
----
 
 🌟 Thanks for exploring my cosmic code journey! Let's create something out of this world together! 🌟
 
