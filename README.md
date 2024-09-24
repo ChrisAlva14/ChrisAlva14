@@ -1,7 +1,7 @@
 
-#  <h1 align="center">Hi 👋, Welcome to Christopher's Code 👨‍💻! </h1> 
+#  <h1 align="center">Hi 👋, Welcome to Christopher's Code! 🚀 </h1> 
 ---
-### Software Development Student
+### <h3 align="center">Software Development Student 👨‍💻! </h3>
 
 ---
 
