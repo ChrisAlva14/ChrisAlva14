@@ -46,7 +46,7 @@
 ---
 
 
-🌟 Thanks for exploring my cosmic code journey! Let's create something out of this world together! 🌟
+🌟 Thanks for exploring my code journey! Let's create something out of this world together! 🌟
 
 
 <!--
