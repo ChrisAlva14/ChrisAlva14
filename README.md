@@ -1,9 +1,6 @@
 
-#  <h1 align="center">Hi 👋, Welcome to Christopher's Code! 🚀 🌌 </h1> 
-
+#  <h1 align="center">Hi 👋, Welcome to Christopher's Code 👨‍💻! </h1> 
 ---
-
-## 👨‍💻 Christopher Emmanuel Villalta Alvarenga
 ### Software Development Student
 
 ---
