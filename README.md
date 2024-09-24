@@ -16,16 +16,6 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-
----
-
-
-### 🛰️ Mission Control
-- 📞 +503 7757-4796
-- 📧 chris.alvarenga02@gmail.com
-- 🌎 El Salvador
-- 🔗 [LinkedIn](linkedin.com/in/chrisvillalta/)
-
 ---
 
 ### 🌠 Stellar Experiences
